@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+.div{
+	background-color:#D2D3D5;
+	height: 590px;
+	width: 600px;
+	margin-left: 330px;
+	
+	
+}
+
+.div1{
+	background-color: #323B4C;
+    height: 590px;
+	width: 600px;
+	
+
+
+}
+
+.img{
+	height: 110px;
+	width: 110px;
+	border-radius: 200px;
+	margin-top: 40px;
+	margin-left: 50px;
+	
+}
+
+.contact{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-top: 40px;
+	margin-left: 40px;
+	color: white;
+	
+}
+
+.hr{
+	width: 86%;
+	margin-top: -15px;
+	
+}
+
+.ul{
+	list-style-type: none;
+	color: white;
+	font-size: 14px;
+	
+	
+}
+
+.education{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-top: 20px;
+	margin-left: 40px;
+	color: white;
+	
+}
+
+.skills{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	margin-top: 20px;
+	margin-left: 40px;
+	color: white;
+	
+}
+
+.div2{
+	background-color: #F4F5F7;
+	width: 400px;
+	height: 590px;
+	float: right;
+	margin-top:-591px;
+	
+}
+
+.name{
+	font-size: 30px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	margin-top: 50px;
+	margin-left: 20px;
+	
+}
+
+.intro{
+	display: block;
+	text-align: left;
+	margin-left: 1em;
+	margin-right: 1em;
+	margin-top: -20px;
+}
+
+.work{
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 18px;
+	margin-left: 20px;
+	margin-top: 30px;
+}
+
+.hr1{
+	width: 88%;
+	margin-top: -18px;
+	background-color: black;
+	
+}
+
+.pi{
+	margin-left: 40px;
+
+}
+
+.pidetail{
+	margin-top: -15px;
+}
+
+.co{
+	text-align: left;
+	margin-left: 25px;
+}
+
+.ref{
+	margin-top: -10px;
+	margin-left: 25px;
+}
